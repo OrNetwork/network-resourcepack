@@ -1,0 +1,114 @@
+{
+  "custom.rblx.cc.ost_belltosser_dblms": {
+    "sounds": [
+      {
+        "name": "custom/ccost_belltosser_dblms",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.cc.ost_doubletroublelms": {
+    "sounds": [
+      {
+        "name": "custom/ccost_doubletroublelms",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.cc.ost_singularityv2": {
+    "sounds": [
+      {
+        "name": "custom/ccost_singularityv2",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.cc.ost_starguitarlms": {
+    "sounds": [
+      {
+        "name": "custom/ccost_starguitarlms",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.cc.ost_terrorsconclusion": {
+    "sounds": [
+      {
+        "name": "custom/ccost_terrorsconclusion",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.cc.ost_terrorsconclusion_havocver": {
+    "sounds": [
+      {
+        "name": "custom/ccost_terrorsconclusion_havocver",
+        "stream": true
+      }
+    ]
+  },
+  "custom.f1.2020ost_postracetheme": {
+    "sounds": [
+      {
+        "name": "custom/f12020ost_postracetheme",
+        "stream": true
+      }
+    ]
+  },
+  "custom.f1.theme_buildupandstartinggrid": {
+    "sounds": [
+      {
+        "name": "custom/f1theme_buildupandstartinggrid",
+        "stream": true
+      }
+    ]
+  },
+  "custom.f1.sprinttheme": {
+    "sounds": [
+      {
+        "name": "custom/f1_sprinttheme",
+        "stream": true
+      }
+    ]
+  },
+  "custom.f1.sprinttheme_edited_1": {
+    "sounds": [
+      {
+        "name": "custom/f1_sprinttheme_edited_1",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.codenameredux.looming_mausoleum": {
+    "sounds": [
+      {
+        "name": "custom/codenameredux-ost-looming_mausoleum",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.codenameredux.afterthestorm_lobbyost": {
+    "sounds": [
+      {
+        "name": "custom/codenameredux-lobby_after-the-storm-codename-redux-ost_lobby_theme",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.codenameredux.lms.reflection_of_hatred": {
+    "sounds": [
+      {
+        "name": "custom/codenameredux-lms-reflection_of_hatred",
+        "stream": true
+      }
+    ]
+  },
+  "custom.rblx.codenameredux.lms.default": {
+    "sounds": [
+      {
+        "name": "custom/codenameredux-lms_a_grave_soul-nowrun",
+        "stream": true
+      }
+    ]
+  }
+}
